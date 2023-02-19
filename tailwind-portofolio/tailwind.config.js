@@ -1,4 +1,3 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
@@ -24,6 +23,3 @@ module.exports = {
   },
 
 }
-
-
-// https://tailwindcss.com/docs/configuration
